@@ -2,7 +2,7 @@ package lab1;
 
 /**
  * A representation of a book.
- * @author <a href="mailto:rkhatchadourian@citytech.cuny.edu">Raffi Khatchadourian</a>.
+ * @author <.
  */
 public class Book {
 

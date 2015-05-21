@@ -2,7 +2,7 @@ package lab1;
 
 /**
  * A representation of a library of books.
- * @author <a href="mailto:rkhatchadourian@citytech.cuny.edu">Raffi Khatchadourian</a>.
+ * @author 
  */
 public class Library {
     // TODO: Add the missing implementation to this class
